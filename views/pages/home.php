@@ -1,0 +1,1 @@
+<p>Welcome! This page is intended to serve as a simple collection of tools to help with financial planning and budgeting. If you're not sure where to start, check out the <a href="?controller=simple_mortgage&action=amortize">Simple Amortization Calculator!</p>
