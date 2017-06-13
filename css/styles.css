@@ -1,0 +1,26 @@
+.nav-sidebar{height:100%;width:200px;background-color:#fff;position:fixed!important;z-index:1;overflow:auto}
+.nav-sidebar{color:#000!important;background-color:#f1f1f1!important}
+
+form  { display: table;      }
+p     { display: table-row;  }
+label { display: table-cell; }
+input { display: table-cell; }
+
+table{
+    width: 100%;
+    border-collapse:collapse;
+}
+
+td{
+    text-align: center;
+    border: 1px solid black;
+    width: 5%;
+}
+
+th{
+    background-color: #d3d3d3;
+    border: 1px solid black;
+    border-spacing: 10px;
+    text-align:center;
+}
+
